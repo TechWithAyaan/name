@@ -1,2 +1,1 @@
-# name ayaan
-time
+mini timer
